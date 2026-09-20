@@ -3,3 +3,4 @@ scikit-fuzzy
 geopy
 polyline
 scipy
+networkx
