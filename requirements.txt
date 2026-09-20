@@ -2,3 +2,4 @@ streamlit
 scikit-fuzzy
 geopy
 polyline
+scipy
